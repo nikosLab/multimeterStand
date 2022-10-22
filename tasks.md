@@ -7,5 +7,7 @@
 
 # tasks
 
+- [x] 1. Create remote repo
+
 
 
