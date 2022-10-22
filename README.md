@@ -8,7 +8,7 @@
 
 # multimeterStand
 
-Electronics workbench made with aluminium profile item-8
+Multimeter stand for aluminium profile item-8
 
 ## 3D model
 <p align="center">
