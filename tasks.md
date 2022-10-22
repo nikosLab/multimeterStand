@@ -12,6 +12,12 @@
 - [x] 3. Add fusion360 files
 - [x] 4. Add stl file
 - [ ] 5. Make the design parametric
+    - fluke 77
+    - fluke 26 III
+    - fluke 8060A
+    - flike 101
+    - Volcraft LCR meter 4073
+    - Green multimeter
 
 
 
