@@ -11,6 +11,7 @@
 - [x] 2. Link with remote repo
 - [x] 3. Add fusion360 files
 - [x] 4. Add stl file
+- [ ] 5. Make the design parametric
 
 
 
