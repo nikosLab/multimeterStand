@@ -45,3 +45,21 @@ width = 500
 
 ----
 
+## 3D printing
+
+
+<p align="center">
+<img
+src="img/04.PNG"
+width = 500
+/>
+</p>
+
+<p align="center">
+<img
+src="img/05.PNG"
+width = 500
+/>
+</p>
+----
+
