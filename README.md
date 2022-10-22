@@ -21,7 +21,7 @@ width = 300
 ----
 
 <!-- pagebreak -->
-## Assembly modeling with fluke 26
+## Assembly modeling with fluke 26 and fluke 77
 <p align="center">
 <img
 src="img/02.PNG"
@@ -31,19 +31,6 @@ width = 500
 
 ----
 
-<!-- pagebreak -->
-## Assembly modeling with fluke 77
-
-
-<p align="center">
-<img
-src="img/03.PNG"
-width = 500
-/>
-</p>
-
-
-----
 
 ## 3D printing
 
