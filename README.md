@@ -63,3 +63,28 @@ width = 500
 </p>
 ----
 
+## Assembly
+
+
+<p align="center">
+<img
+src="img/06.PNG"
+width = 500
+/>
+</p>
+
+<p align="center">
+<img
+src="img/07.PNG"
+width = 500
+/>
+</p>
+
+<p align="center">
+<img
+src="img/08.PNG"
+width = 500
+/>
+</p>
+----
+
