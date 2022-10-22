@@ -31,4 +31,17 @@ width = 600
 
 ----
 
+<!-- pagebreak -->
+## Assemnbly modeling with fluke 77
+
+
+<p align="center">
+<img
+src="img/03.PNG"
+width = 600
+/>
+</p>
+
+
+----
 
