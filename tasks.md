@@ -17,7 +17,8 @@
     - fluke 8060A :white_check_mark:
     - flUke 101
     - Volcraft LCR meter 4073 :white_check_mark:
-    - Green multimeter
+    - Green multimeter :white_check_mark:
+- [ ] 6. Create Fluke-101 3D model    
 
 
 
