@@ -8,6 +8,7 @@
 # tasks
 
 - [x] 1. Create remote repo
+- [x] 2. Link with remote repo
 
 
 
