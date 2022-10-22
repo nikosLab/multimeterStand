@@ -18,6 +18,14 @@ width = 300
 />
 </p>
 
+* Parametric design
+<p align="center">
+<img
+src="img/09.PNG"
+width = 900
+/>
+</p>
+
 ----
 
 <!-- pagebreak -->
