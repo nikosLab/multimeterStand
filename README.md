@@ -14,7 +14,7 @@ Multimeter stand for aluminium profile item-8
 <p align="center">
 <img
 src="img/01.PNG"
-width = 600
+width = 300
 />
 </p>
 
@@ -25,7 +25,7 @@ width = 600
 <p align="center">
 <img
 src="img/02.PNG"
-width = 600
+width = 500
 />
 </p>
 
@@ -38,7 +38,7 @@ width = 600
 <p align="center">
 <img
 src="img/03.PNG"
-width = 600
+width = 500
 />
 </p>
 
