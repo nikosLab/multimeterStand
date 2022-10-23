@@ -23,5 +23,6 @@
 - [x] 8. 3D print Probe holders
 - [x] 9. 3D Print Fluke8060 stand
 - [x] 10. Complete assembly with 2 multimeters and 4 probe holders
+- [x] 11. Test the assembly
 
 
