@@ -10,6 +10,16 @@
 
 Multimeter stand for aluminium profile item-8
 
+## Complete assembly
+
+<p align="center">
+<img
+src="img/10.PNG"
+width = 500
+/>
+</p>
+
+
 ## 3D model
 <p align="center">
 <img
