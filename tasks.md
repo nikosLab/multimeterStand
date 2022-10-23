@@ -18,7 +18,8 @@
     - flUke 101
     - Volcraft LCR meter 4073 :white_check_mark:
     - Green multimeter :white_check_mark:
-- [ ] 6. Create Fluke-101 3D model    
+- [ ] 6. Create Fluke-101 3D model   
+- [x] 7. Create Probe holders 3D model 
 
 
 
