@@ -8,9 +8,14 @@
 
 # multimeterStand
 
-Multimeter stand for aluminium profile item-8
+Multimeter stand for aluminium profile item-8.
+
 
 ## Complete assembly
+* Fluke 77
+* Fluke 8060A
+* Aluminium prpfiles 40x40mm
+* Scateboard wheels
 
 <p align="center">
 <img
