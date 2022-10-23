@@ -20,6 +20,7 @@
     - Green multimeter :white_check_mark:
 - [ ] 6. Create Fluke-101 3D model   
 - [x] 7. Create Probe holders 3D model 
+- [x] 8. 3D print Probe holders
 
 
 
