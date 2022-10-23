@@ -21,6 +21,7 @@
 - [ ] 6. Create Fluke-101 3D model   
 - [x] 7. Create Probe holders 3D model 
 - [x] 8. 3D print Probe holders
+- [x] 9. 3D Print Fluke8060 stand
 
 
 
