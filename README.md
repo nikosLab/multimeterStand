@@ -15,7 +15,9 @@ Multimeter stand for aluminium profile item-8.
 * Fluke 77
 * Fluke 8060A
 * Aluminium prpfiles 40x40mm
-* Scateboard wheels
+* Scateboard wheels 51mm
+* 4x Probe holders
+* Cables
 
 <p align="center">
 <img
