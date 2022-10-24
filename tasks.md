@@ -30,6 +30,7 @@
 - [x] 10. Complete assembly with 2 multimeters and 4 probe holders
 - [x] 11. Test the assembly
 - [x] 12. Get final assembly images
+- [x] 13. Create a fluke101 small version
 
 
 
