@@ -105,7 +105,7 @@ width = 400
 
 ----
 
-## Assembly
+## Assembly Fluke 77 & Fluke 266 iii
 
 
 <p align="center">
@@ -142,6 +142,33 @@ width = 250
 </p>
 
 ----
+
+
+## Assembly Fluke 101
+
+<p align="center">
+<img
+src="img/18.PNG"
+width = 500
+/>
+</p>
+
+<p align="center">
+<img
+src="img/19.PNG"
+width = 500
+/>
+</p>
+
+<p align="center">
+<img
+src="img/20.PNG"
+width = 500
+/>
+</p>
+
+
+
 
 ## probeHolder
 
