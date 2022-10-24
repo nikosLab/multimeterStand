@@ -102,6 +102,7 @@ src="img/05.PNG"
 width = 500
 />
 </p>
+
 ----
 
 ## Assembly
@@ -127,6 +128,7 @@ src="img/08.PNG"
 width = 500
 />
 </p>
+
 ----
 
 
