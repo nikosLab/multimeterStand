@@ -92,14 +92,14 @@ width = 500
 <p align="center">
 <img
 src="img/04.PNG"
-width = 500
+width = 400
 />
 </p>
 
 <p align="center">
 <img
 src="img/05.PNG"
-width = 500
+width = 400
 />
 </p>
 
@@ -137,7 +137,7 @@ width = 500
 <p align="center">
 <img
 src="img/11.PNG"
-width = 300
+width = 250
 />
 </p>
 
@@ -148,7 +148,7 @@ width = 300
 <p align="center">
 <img
 src="img/12.PNG"
-width = 300
+width = 200
 />
 </p>
 
