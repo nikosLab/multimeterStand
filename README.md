@@ -39,7 +39,7 @@ fluke_bracket_1: Parametric design for standard sized multimeters
 <p align="center">
 <img
 src="img/01.PNG"
-width = 300
+width = 350
 />
 </p>
 
@@ -48,7 +48,7 @@ fluke_bracket_2 for small sized Fluke 101
 <p align="center">
 <img
 src="img/16.PNG"
-width = 300
+width = 250
 />
 </p>
 
@@ -65,7 +65,7 @@ width = 900
 ----
 
 <!-- pagebreak -->
-## Assembly modeling with fluke 26 and fluke 77  
+## Assembly modeling with fluke 77 and fluke 25 ΙΙΙ  
 <p align="center">
 <img
 src="img/15.PNG"
@@ -75,7 +75,7 @@ width = 500
 
 ----
 
-## Assembly modeling with fluke 101 and fluke 77  
+## Assembly modeling with fluke 77 and fluke 101  
 <p align="center">
 <img
 src="img/02.PNG"
