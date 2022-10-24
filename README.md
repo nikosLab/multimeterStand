@@ -51,6 +51,16 @@ width = 900
 ## Assembly modeling with fluke 26 and fluke 77  
 <p align="center">
 <img
+src="img/15.PNG"
+width = 500
+/>
+</p>
+
+----
+
+## Assembly modeling with fluke 101 and fluke 77  
+<p align="center">
+<img
 src="img/02.PNG"
 width = 500
 />
