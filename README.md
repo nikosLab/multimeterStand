@@ -8,7 +8,7 @@
 
 # multimeterStand
 
-Multimeter stand for aluminium profile item-8.
+Multimeter stand for 40x40 mm aluminium profile item-8.
 
 
 ## Complete assembly
