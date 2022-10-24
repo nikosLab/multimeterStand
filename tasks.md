@@ -31,6 +31,7 @@
 - [x] 11. Test the assembly
 - [x] 12. Get final assembly images
 - [x] 13. Create a fluke101 small version
+- [ ] 14. Export small version STL
 
 
 
