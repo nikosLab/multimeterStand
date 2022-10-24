@@ -30,12 +30,29 @@ width = 500
 
 
 ## 3D model
+fluke_bracket_1: Parametric design for standard sized multimeters
+* Fluke 77
+* Fluke 26
+* Fluke 8060A
+* Volcraft LCR meter 4073
+
 <p align="center">
 <img
 src="img/01.PNG"
 width = 300
 />
 </p>
+
+----
+fluke_bracket_2 for small sized Fluke 101
+<p align="center">
+<img
+src="img/16.PNG"
+width = 300
+/>
+</p>
+
+----
 
 * Parametric design
 <p align="center">
