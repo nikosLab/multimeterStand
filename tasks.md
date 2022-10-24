@@ -18,7 +18,7 @@
     - flUke 101
     - Volcraft LCR meter 4073 :white_check_mark:
     - Green multimeter :white_check_mark:
-- [ ] 6. Create Fluke-101 3D model 
+- [x] 6. Create Fluke-101 3D model 
     - height 131mm
     - width top 66mm
     - width bottom 62mm
