@@ -227,3 +227,14 @@ width = 300
 </p>
 
 ----
+
+front view with Fluke-101
+
+<p align="center">
+<img
+src="img/23.PNG"
+width = 300
+/>
+</p>
+
+----
