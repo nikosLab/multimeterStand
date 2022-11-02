@@ -216,3 +216,14 @@ width = 300
 </p>
 
 ----
+
+back view with mounting holes
+
+<p align="center">
+<img
+src="img/22.PNG"
+width = 300
+/>
+</p>
+
+----
