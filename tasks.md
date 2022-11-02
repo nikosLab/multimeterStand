@@ -41,6 +41,7 @@
 - [x] 21. Create a new tilted-stand for mounting the Fluke101 stand
 - [x] 22. Create images from multimeterTiltBracketFluke101 design
 - [x] 23. Export CAD from multimeterTiltBracketFluke101 design
+- [x] 24. Export Assembly from multimeterTiltBracketFluke101 design
 
 
 
