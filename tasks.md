@@ -38,7 +38,7 @@
 - [x] 18. Test small version with Fluke 101
 - [x] 19. Get small version images
 - [ ] 20. Test Fluke101 version with a new 4040 assembly
-- [ ] 21. Create a new tilted-stand for mounting the Fluke101 stand
+- [x] 21. Create a new tilted-stand for mounting the Fluke101 stand
 
 
 
