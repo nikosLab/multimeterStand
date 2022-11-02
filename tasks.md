@@ -22,7 +22,7 @@
     - height 131mm
     - width top 66mm
     - width bottom 62mm
-    - widyh changes at height 76mm
+    - width changes at height 76mm
     - depth 26mm
 - [x] 7. Create Probe holders 3D model 
 - [x] 8. 3D print Probe holders
@@ -37,7 +37,8 @@
 - [x] 17. Rework 3D printed small version
 - [x] 18. Test small version with Fluke 101
 - [x] 19. Get small version images
-- [ ] 20. Test fluke101 version with a new assembly
+- [ ] 20. Test fluke101 version with a new 4040 assembly
+- [ ] 21. Create a new tilted stand for mounting the Fluke101 stand
 
 
 
