@@ -34,6 +34,7 @@
 - [x] 14. Export small version STL
 - [x] 15. slice small version
 - [x] 16. 3D print the small version
+- [x] 17. Rework 3D printed small version
 
 
 
