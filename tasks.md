@@ -43,6 +43,7 @@
 - [x] 23. Export CAD from multimeterTiltBracketFluke101 design
 - [x] 24. Export Assembly from multimeterTiltBracketFluke101 design
 - [ ] 25. 3D print multimeterTiltBracketFluke101
+- [ ] 26. Post process 3D printed multimeterTiltBracketFluke101
 
 
 
