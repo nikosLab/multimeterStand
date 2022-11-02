@@ -32,7 +32,7 @@
 - [x] 12. Get final assembly images
 - [x] 13. Create a fluke101 small version
 - [x] 14. Export small version STL
-- [ ] 15. slice small version
+- [x] 15. slice small version
 
 
 
