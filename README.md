@@ -238,3 +238,14 @@ width = 300
 </p>
 
 ----
+Slice with cura
+
+<p align="center">
+<img
+src="img/24.PNG"
+width = 300
+/>
+</p>
+
+----
+
