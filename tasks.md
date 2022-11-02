@@ -47,6 +47,7 @@
 - [ ] 27. Assemble multimeterTiltBracketFluke101 and test
 - [ ] 28. Get photos from multimeterTiltBracketFluke101
 - [ ] 29. 3D-print new version 101 bracket with cable opening
+- [ ] 30. Get photo for all my multimeters
 
 
 
