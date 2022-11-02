@@ -249,3 +249,13 @@ width = 300
 
 ----
 
+Cura stats
+
+<p align="center">
+<img
+src="img/25.PNG"
+width = 300
+/>
+</p>
+
+----
