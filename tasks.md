@@ -35,6 +35,7 @@
 - [x] 15. slice small version
 - [x] 16. 3D print the small version
 - [x] 17. Rework 3D printed small version
+- [x] 18. Test small version with Fluke 101
 
 
 
