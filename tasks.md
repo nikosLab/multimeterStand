@@ -45,6 +45,7 @@
 - [ ] 25. 3D print multimeterTiltBracketFluke101
 - [ ] 26. Post process 3D printed multimeterTiltBracketFluke101
 - [ ] 27. Assemble multimeterTiltBracketFluke101 and test
+- [ ] 28. Get photos from multimeterTiltBracketFluke101
 
 
 
