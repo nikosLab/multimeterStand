@@ -40,6 +40,7 @@
 - [ ] 20. Test Fluke101 version with a new 4040 assembly
 - [x] 21. Create a new tilted-stand for mounting the Fluke101 stand
 - [x] 22. Create images from multimeterTiltBracketFluke101 design
+- [x] 23. Export CAD from multimeterTiltBracketFluke101 design
 
 
 
