@@ -260,9 +260,9 @@ width = 300
 
 ----
 
-## Reworked first version Printout
+## Hand-Saw reworked first version Printout
 
-To update the V1 printout being similar to V2, had to saw a section
+To update the V1 printout being similar to V2, had to **Hand Saw** a section
 
 <p align="center">
 <img
@@ -273,7 +273,7 @@ width = 900
 
 ----
 
-Reworked Printout V1 top view
+**Hand Saw** Reworked Printout V1 top view
 
 <p align="center">
 <img
@@ -284,7 +284,7 @@ width = 600
 
 ----
 
-Reworked Printout V1 with multimeter
+**Hand Saw** Reworked Printout V1 with multimeter bottom view
 
 <p align="center">
 <img
@@ -295,6 +295,8 @@ width = 600
 
 ----
 
+
+**Hand Saw** Reworked Printout V1 with multimeter top view
 <p align="center">
 <img
 src="img/28.PNG"
