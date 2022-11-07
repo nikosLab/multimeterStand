@@ -284,6 +284,8 @@ width = 600
 
 ----
 
+Reworked Printout V1 with multimeter
+
 <p align="center">
 <img
 src="img/27.PNG"
