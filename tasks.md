@@ -43,7 +43,7 @@
 - [x] 23. Export CAD from multimeterTiltBracketFluke101 design
 - [x] 24. Export Assembly from multimeterTiltBracketFluke101 design
 - [ ] 25. 3D print multimeterTiltBracketFluke101
-- [ ] 26. Post process 3D printed multimeterTiltBracketFluke101
+- [x] 26. Post process 3D printed Version-1 multimeterTiltBracketFluke101
 - [ ] 27. Assemble multimeterTiltBracketFluke101 and test
 - [ ] 28. Get photos from multimeterTiltBracketFluke101
 - [ ] 29. 3D-print new version 101 bracket with cable opening
