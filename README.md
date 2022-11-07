@@ -259,3 +259,5 @@ width = 300
 </p>
 
 ----
+
+## Reworked first version Printout
