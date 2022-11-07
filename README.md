@@ -261,3 +261,42 @@ width = 300
 ----
 
 ## Reworked first version Printout
+
+To update the V1 printout being similar to V2, had to saw a section
+
+<p align="center">
+<img
+src="img/29.PNG"
+width = 900
+/>
+</p>
+
+----
+
+<p align="center">
+<img
+src="img/26.PNG"
+width = 600
+/>
+</p>
+
+----
+
+<p align="center">
+<img
+src="img/27.PNG"
+width = 600
+/>
+</p>
+
+----
+
+<p align="center">
+<img
+src="img/28.PNG"
+width = 600
+/>
+</p>
+
+----
+
