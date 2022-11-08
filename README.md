@@ -342,3 +342,14 @@ width = 600
 
 ## multimeterTiltBracketFluke101-2
 2nd version fluke101 tilt backet
+
+----
+side view
+<p align="center">
+<img
+src="img/33.PNG"
+width = 600
+/>
+</p>
+
+----
