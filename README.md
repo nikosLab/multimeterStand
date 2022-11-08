@@ -283,6 +283,16 @@ width = 600
 
 ----
 
+multimeterTiltBracketFluke101-2 top view
+
+<p align="center">
+<img
+src="img/32.PNG"
+width = 600
+/>
+</p>
+
+----
 
 ## Hand-Saw reworked first version Printout
 
