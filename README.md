@@ -263,6 +263,18 @@ width = 300
 ## 2nd version multimeterTiltBracketFluke101-2
 
 
+side view
+<p align="center">
+<img
+src="img/30.PNG"
+width = 600
+/>
+</p>
+
+----
+
+
+
 
 ## Hand-Saw reworked first version Printout
 
