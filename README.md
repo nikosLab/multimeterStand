@@ -357,7 +357,7 @@ width = 600
 multimeterTiltBracketFluke101-2 assembly
 * Tilt is 45' 
 * Pockets for securing the measuremnt probes
-* Holes for reducing printing material
+* Large Holes for reducing printing material
 
 <p align="center">
 <img
