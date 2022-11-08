@@ -381,6 +381,8 @@ width = 600
 
 multimeterTiltBracketFluke101-2 slicer stats
 
+* 2 hours 52 minutes 150g 19.00m @infill 25%
+
 <p align="center">
 <img
 src="img/36.PNG"
