@@ -378,3 +378,14 @@ width = 600
 </p>
 
 ----
+
+multimeterTiltBracketFluke101-2 slicer stats
+
+<p align="center">
+<img
+src="img/36.PNG"
+width = 300
+/>
+</p>
+
+----
