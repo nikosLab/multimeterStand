@@ -51,6 +51,7 @@
 - [ ] 30. Get photo for all my multimeters
 - [x] 31. Get Images from the BracketFluke101-V1 reworked
 - [x] 32. Add text to re-work images
+- [ ] 33. Use multimeterTiltBracketFluke101 assembly with Fluke101 
 
 
 
