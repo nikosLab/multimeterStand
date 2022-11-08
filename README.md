@@ -260,7 +260,7 @@ width = 300
 
 ----
 
-## 2nd version multimeterTiltBracketFluke101-2
+###  multimeterTiltBracketFluke101 printout
 
 ----
 side view
@@ -272,7 +272,7 @@ width = 600
 </p>
 
 ----
-multimeterTiltBracketFluke101-2 font view
+ front view
 
 <p align="center">
 <img
@@ -283,7 +283,7 @@ width = 600
 
 ----
 
-multimeterTiltBracketFluke101-2 top view
+top view
 
 <p align="center">
 <img
