@@ -199,6 +199,10 @@ width = 500
 
 ## probeHolder
 
+----
+
+`image 12:Multimeter probe holder`
+
 <p align="center">
 <img
 src="img/12.PNG"
