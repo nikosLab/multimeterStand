@@ -153,6 +153,10 @@ width = 500
 
 ## Fluke 101 3D model
 
+----
+
+`image 11: Fluke 101 Fusion260 rough 3D model`
+
 <p align="center">
 <img
 src="img/11.PNG"
