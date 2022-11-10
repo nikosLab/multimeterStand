@@ -53,7 +53,7 @@ width = 350
 </p>
 
 ----
-fluke_bracket_2 for small sized Fluke 101
+`image 16: fluke_bracket_2 for small sized Fluke 101`
 <p align="center">
 <img
 src="img/16.PNG"
