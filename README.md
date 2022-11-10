@@ -169,6 +169,10 @@ width = 250
 
 ## Assembly Fluke 101
 
+----
+
+`images 18,19,20: Bracket assembled with Fluke-101`
+
 <p align="center">
 <img
 src="img/18.PNG"
@@ -190,7 +194,7 @@ width = 500
 />
 </p>
 
-
+----
 
 
 ## probeHolder
