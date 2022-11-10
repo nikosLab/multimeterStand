@@ -393,7 +393,7 @@ width = 300
 ----
 
 
-`image 37: assembled, side view`
+`image 37: multimeterTiltBracketFluke101-2 assembled, side view`
 
 <p align="center">
 <img
@@ -404,11 +404,22 @@ width = 600
 
 ----
 
-`image 38: assembled, top view`
+`image 38: multimeterTiltBracketFluke101-2 assembled, top view`
 
 <p align="center">
 <img
 src="img/38.PNG"
+width = 600
+/>
+</p>
+
+----
+
+`image 39: multimeterTiltBracketFluke101-2 assembled, probes/cables on stand`
+
+<p align="center">
+<img
+src="img/39.PNG"
 width = 600
 />
 </p>
