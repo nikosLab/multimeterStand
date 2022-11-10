@@ -21,12 +21,17 @@ Multimeter stand for 40x40 mm aluminium profile item-8.
 * 4x Probe holders
 * Cables
 
+----
+
+`image 10: fully assembled stand with aluminium profile and scatboard wheels`
 <p align="center">
 <img
 src="img/10.PNG"
 width = 500
 />
 </p>
+
+----
 
 
 ## 3D model
