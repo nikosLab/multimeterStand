@@ -403,3 +403,14 @@ width = 600
 </p>
 
 ----
+
+`image 38: assembled, top view`
+
+<p align="center">
+<img
+src="img/38.PNG"
+width = 600
+/>
+</p>
+
+----
