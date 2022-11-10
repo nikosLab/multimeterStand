@@ -63,7 +63,8 @@ width = 250
 
 ----
 
-* Parametric design
+`image 9: fusion360 Parametric design parameters list`
+
 <p align="center">
 <img
 src="img/09.PNG"
