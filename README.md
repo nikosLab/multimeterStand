@@ -391,3 +391,15 @@ width = 300
 </p>
 
 ----
+
+
+`image 37: assembled, side view`
+
+<p align="center">
+<img
+src="img/37.PNG"
+width = 600
+/>
+</p>
+
+----
