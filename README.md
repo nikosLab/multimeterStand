@@ -357,7 +357,9 @@ width = 600
 2nd version Fluke101 tilt backet
 
 ----
-side view
+
+`image 33: multimeterTiltBracketFluke101-2 3D model`
+
 <p align="center">
 <img
 src="img/33.PNG"
