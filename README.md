@@ -484,3 +484,14 @@ width = 600
 </p>
 
 ----
+
+`image 45: multimeterTiltBracketFluke101-2 with LCR meter, cables on stand`
+
+<p align="center">
+<img
+src="img/45.PNG"
+width = 600
+/>
+</p>
+
+----
