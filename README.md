@@ -41,6 +41,10 @@ fluke_bracket_1: Parametric design for standard sized multimeters
 * Fluke 8060A
 * Volcraft LCR meter 4073
 
+----
+
+`image 1: fluke_bracket_1: 3D model`
+
 <p align="center">
 <img
 src="img/01.PNG"
