@@ -425,3 +425,15 @@ width = 600
 </p>
 
 ----
+
+
+`image 40: multimeterTiltBracketFluke101-2 assembled, probes/cables on stand alternative`
+
+<p align="center">
+<img
+src="img/40.PNG"
+width = 600
+/>
+</p>
+
+----
