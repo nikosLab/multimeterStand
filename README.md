@@ -339,7 +339,11 @@ width = 600
 ----
 
 
-**Hand Saw** Reworked Printout Fluke-101 V1 with multimeter, top view
+**Hand Saw** 
+----
+
+`image 28: Reworked Printout Fluke-101 V1 with multimeter, top view`
+
 <p align="center">
 <img
 src="img/28.PNG"
