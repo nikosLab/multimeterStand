@@ -77,6 +77,8 @@ width = 900
 <!-- pagebreak -->
 ## Assembly modeling with fluke 77 and fluke 25 ΙΙΙ  
 
+----
+
 `image 15: Assembly modeling with aluminium profiles and scateboard wheels`
 <p align="center">
 <img
@@ -87,7 +89,12 @@ width = 500
 
 ----
 
-## Assembly modeling with fluke 77 and fluke 101  
+## Assembly modeling with fluke 77 and fluke 101 
+
+----
+
+`image 02: Assembly modeling with aluminium profiles and scateboard wheels, with Fluke101`
+
 <p align="center">
 <img
 src="img/02.PNG"
