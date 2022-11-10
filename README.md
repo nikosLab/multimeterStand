@@ -383,7 +383,7 @@ width = 600
 
 ----
 
-multimeterTiltBracketFluke101-2 slicer
+`image 35: multimeterTiltBracketFluke101-2 slicer`
 
 <p align="center">
 <img
