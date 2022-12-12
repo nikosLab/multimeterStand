@@ -532,3 +532,14 @@ width = 600
 </p>
 
 ----
+
+`image 46: multimeter4040 stand for item profile-8 (40x40mm)`
+
+<p align="center">
+<img
+src="img/46.PNG"
+width = 600
+/>
+</p>
+
+----
