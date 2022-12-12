@@ -554,3 +554,15 @@ width = 600
 </p>
 
 ----
+
+
+`image 48: multimeter4040 V13`
+
+<p align="center">
+<img
+src="img/48.PNG"
+width = 600
+/>
+</p>
+
+----
