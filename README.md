@@ -533,11 +533,22 @@ width = 600
 
 ----
 
-`image 46: multimeter4040 stand for item profile-8 (40x40mm)`
+`image 46: multimeter4040 stand for item profile-8 (40x40mm) side view`
 
 <p align="center">
 <img
 src="img/46.PNG"
+width = 600
+/>
+</p>
+
+----
+
+`image 47: multimeter4040 stand for item profile-8 (40x40mm) perspective view`
+
+<p align="center">
+<img
+src="img/47.PNG"
 width = 600
 />
 </p>
