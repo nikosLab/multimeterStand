@@ -556,7 +556,7 @@ width = 600
 ----
 
 
-`image 48: multimeter4040 V13`
+`image 48: multimeter4040_early`
 
 <p align="center">
 <img
