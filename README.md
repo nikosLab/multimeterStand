@@ -578,3 +578,14 @@ width = 600
 </p>
 
 ----
+
+`image 50: multimeter4040_early installed close-up`
+
+<p align="center">
+<img
+src="img/50.PNG"
+width = 600
+/>
+</p>
+
+----
