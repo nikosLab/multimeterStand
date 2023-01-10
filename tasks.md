@@ -52,7 +52,7 @@
 - [x] 31. Get Images from the BracketFluke101-V1 reworked
 - [x] 32. Add text to re-work images
 - [x] 33. Test multimeterTiltBracketFluke101 assembly with Fluke101 
-    - Need update, visibility is low, haveto increase the tilt
+    - Need update, visibility is low, have to increase the tilt
 
 
 

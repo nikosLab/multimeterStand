@@ -4,6 +4,7 @@
 
 
 * [tasks](tasks.md)
+* [summary](summary.md)
 
 
 # multimeterStand
