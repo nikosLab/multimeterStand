@@ -592,3 +592,27 @@ width = 600
 
 ## 10/01/2023
 
+
+
+`image 110: 3 options for multimeter4040 design, front view`
+
+<p align="center">
+<img
+src="img/52.PNG"
+width = 900
+/>
+</p>
+
+----
+
+`image 110: 3 options for multimeter4040 design, side view`
+
+<p align="center">
+<img
+src="img/53.PNG"
+width = 900
+/>
+</p>
+
+----
+
