@@ -594,7 +594,7 @@ width = 600
 
 
 
-`image 110: 3 options for multimeter4040 design, front view`
+`image 52: 3 options for multimeter4040 design, front view`
 
 <p align="center">
 <img
@@ -605,7 +605,7 @@ width = 900
 
 ----
 
-`image 110: 3 options for multimeter4040 design, side view`
+`image 53: 3 options for multimeter4040 design, side view`
 
 <p align="center">
 <img
