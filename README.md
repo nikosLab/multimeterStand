@@ -619,6 +619,18 @@ width = 900
 ----
 
 
+`image 56: Cura 5.0 red coloring indicates that support is needed`
+
+<p align="center">
+<img
+src="img/56.PNG"
+width = 400
+/>
+</p>
+
+
+----
+
 `image 54: Cura 5.0 slicing with tree support`
 
 <p align="center">
