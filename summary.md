@@ -8,3 +8,5 @@
 # summary
 
 ## 10/01/2023
+
+* s1. New version with improved tilt, width
