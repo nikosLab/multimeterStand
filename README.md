@@ -618,3 +618,16 @@ width = 900
 
 ----
 
+
+`image 54: Cura 5.0 slicing with tree support`
+
+<p align="center">
+<img
+src="img/54.PNG"
+width = 400
+/>
+</p>
+
+
+
+
