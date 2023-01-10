@@ -9,4 +9,5 @@
 
 ## 10/01/2023
 
-* s1. New version with improved tilt, width
+* s1. New version with improved tilt, width for 4040
+* s2. New slideck with 3 4040 versions
