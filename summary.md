@@ -11,3 +11,4 @@
 
 * s1. New version with improved tilt, width for 4040
 * s2. New slideck with 3 4040 versions
+* s3. Cura removed ironing, results about an hour less print time
