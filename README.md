@@ -647,7 +647,7 @@ width = 400
 />
 </p>
 
-* Tree support is more time and material efficient 
+* Tree support is time and material efficient and easier to remove 
 
 ----
 
