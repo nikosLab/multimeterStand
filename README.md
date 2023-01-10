@@ -628,6 +628,18 @@ width = 900
 
 ----
 
+`image 57: multimeter4040-02 design, section analysis`
+
+<p align="center">
+<img
+src="img/57.PNG"
+width = 600
+/>
+</p>
+
+----
+
+
 
 `image 56: Cura 5.0 red coloring indicates that support is needed`
 
