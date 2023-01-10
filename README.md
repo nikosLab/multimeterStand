@@ -614,5 +614,7 @@ width = 900
 />
 </p>
 
+* Version multimeter4040-02: tilt is increased by 6 degrees
+
 ----
 
