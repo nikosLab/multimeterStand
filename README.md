@@ -593,7 +593,16 @@ width = 600
 
 ## 10/01/2023
 
+`image 51: multimeter4040_early and multimeter4040_01`
 
+<p align="center">
+<img
+src="img/51.PNG"
+width = 600
+/>
+</p>
+
+----
 
 `image 52: 3 options for multimeter4040 design, front view`
 
